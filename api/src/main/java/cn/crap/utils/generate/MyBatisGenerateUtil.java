@@ -7,7 +7,7 @@ package cn.crap.utils.generate;
 
 import cn.crap.enu.GenerateType;
 import cn.crap.utils.Tools;
-import com.sun.javafx.binding.StringFormatter;
+//import com.sun.javafx.binding.StringFormatter;
 import org.springframework.stereotype.Service;
 
 import java.util.Set;
